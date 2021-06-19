@@ -1,0 +1,229 @@
+body{
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+a.nsublinhado:link 
+{ 
+ text-decoration:none; 
+}
+
+hr{
+	color: #4603cd;
+}
+.container {
+ 
+width:800px;
+ 
+margin:10px auto;
+ 
+}
+ 
+.box {
+ 
+position:relative;
+
+width:50%;
+ 
+float:left;
+ 
+font-size:1.4em;
+ 
+text-align:center;
+ 
+padding:1em 0;
+ 
+}
+
+.box1 {
+ 
+position:relative;
+
+border-radius: 25px;
+
+width:100%;
+ 
+height:40px;
+color: #FFF;
+ 
+float:left;
+ 
+font-size:0.9em;
+text-align:center;
+
+margin:0;
+padding-top: 0.4em;
+padding-bottom: 0em;
+
+background-color: #999;
+}
+
+.box2 {
+ 
+position:relative;
+border-radius:20px;
+width:90%;
+ 
+height:10%;
+color: #696765;
+ 
+float:left;
+ 
+font-size:0.7em;
+text-align:left;
+
+padding-right: 0em;
+padding-left: 3.0em;
+padding-top: 1.0em;
+padding-bottom: 1.0em;
+
+
+background-color: #EEE;
+}
+
+.box4 {
+position:relative;
+width:70%;
+float:left;
+ 
+font-size:1.0em;
+padding-left: 1.3em;
+padding-bottom:0.2em;
+}
+
+.box5 {
+position:relative;
+width:50%;
+float:left;
+
+color:#663333;
+text-decoration:bold;
+font-size:1.0em;
+
+padding-left: 1.3em;
+padding-bottom:0.2em;
+}
+
+.box6 {
+position:relative;
+width:70%;
+float:left;
+
+color:#663333;
+font-weight: bold; 
+font-size:1.3em;
+padding-left: 1.3em;
+padding-bottom:0.5em;
+}
+
+.botao_entrar {
+ 
+border-radius:4px;
+border: 2px solid #9c9c9a;
+
+width:80px; 
+height:30px;
+
+color: #444341; 
+font-size:0.9em;
+text-align:center;
+
+background-color: #f8f8f8;
+}
+
+.botao_sair {
+ 
+border-radius:4px;
+border: 2px solid #4a668d;
+
+width:60px; 
+height:30px;
+
+color: #ffffff; 
+font-size:0.8em;
+text-align:center;
+font-weight: bold;
+
+background-color: #486a9a;
+}
+
+.botao_voltar {
+ 
+border-radius:4px;
+border: 1px solid #9d9d9d;
+
+width:90px; 
+height:30px;
+
+color: #000000; 
+font-size:0.8em;
+text-align:center;
+font-weight: bold;
+
+background-color: #e1e1e1;
+}
+.campo_login {
+ 
+border-radius:3px;
+border: 2px solid #9c9c9a;
+
+color: #444341; 
+font-size:0.9em;
+
+}
+
+.img_dog { 
+	max-width: 100% !important;
+	height: auto; 
+}
+
+.tabela_sis {
+vertical-align: middle;
+text-align:center;
+font-size:1.3em;
+color:#000;
+height:auto;
+background-color: #FFF;
+
+padding-top: 2.0em;
+padding-bottom: 2.0em;
+}
+
+.tabela_dados {
+overflow: auto;
+font-size:0.8em;
+color: #000;
+text-align:center; 
+vertical-align: middle;
+width:96%;
+height:300px;
+padding-right: 0.2em;
+padding-left: 1.0em;
+}
+
+a:link {
+color:#000;
+}
+a:visited {
+color:#000;
+}
+a:hover {
+color:#000;
+}
+a:active {
+color:#000;
+}
+
+.petolavo {
+ 
+position:relative;
+ 
+padding-top: 0.8em;
+padding-right: 2.0em;
+padding-bottom: 0.3em;
+padding-left: 3.0em;
+
+text-align:center;
+font-size:2.7em;
+color:#999aff;
+font-weight: bold;
+}
